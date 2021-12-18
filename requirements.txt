@@ -1,2 +1,10 @@
-"this project was made using the python library arcade"
-"in this project, the random module was used"
+arcade==2.6.5
+attrs==21.2.0
+cffi==1.15.0
+Pillow==8.4.0
+pycparser==2.21
+pyglet==2.0.dev11
+pymunk==6.2.1
+pytiled-parser==1.5.4
+Shapely==1.8.0
+typing-extensions==4.0.0
