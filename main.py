@@ -1,3 +1,7 @@
+"This code was made using the official arcade documentation website"
+"The source code was borrowed from the documentation"
+"https://api.arcade.academy/en/latest/examples/platform_tutorial/index.html"
+
 import arcade
 import random
 
@@ -201,3 +205,7 @@ def main_function():
 
 if __name__ == "__main__":
     main_function()
+    
+"This code was made using the official arcade documentation website"
+"The source code was borrowed from the documentation"
+"https://api.arcade.academy/en/latest/examples/platform_tutorial/index.html"
